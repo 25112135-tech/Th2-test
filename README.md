@@ -1,5 +1,5 @@
-# Trần Ngô Tiến Đạt - 25112231 - Thực hành 2 - Thí nghiệm 2 
- Minh chứng: ảnh, videos, serial log và code ở trong các folders tương ứng của mỗi bài 
+# Phạm quý anh - 25112135 - Thực hành 2 
+ Minh chứng, ảnh, videos, serial log và code của mỗi bài 
 > Wokwi:
 - bài 1 vd 1: https://wokwi.com/projects/480324937678396417
 - bài 1 vd 2: https://wokwi.com/projects/480324761814331393
